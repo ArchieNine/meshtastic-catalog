@@ -1,0 +1,82 @@
+[
+  {
+    "model": "PN1807433",
+    "file": "assets/PN1807433/faketecnfy-open.jpg",
+    "credit": "Fernan / FernanFPV",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://fernanfpv.github.io/posts/faketec-ultraslim/",
+    "attribution": "Fernan / FernanFPV, Nodo UltraSlim para Meshtastic (bonito y todo), https://fernanfpv.github.io/posts/faketec-ultraslim/ ; CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ ; original image unchanged; captions translated.",
+    "modification": "Original image bytes unchanged; captions translated where noted."
+  },
+  {
+    "model": "PN1807433",
+    "file": "assets/PN1807433/faketecnfy-fasevdiseno.png",
+    "credit": "Fernan / FernanFPV",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://fernanfpv.github.io/posts/faketec-ultraslim/",
+    "attribution": "Fernan / FernanFPV, Nodo UltraSlim para Meshtastic (bonito y todo), https://fernanfpv.github.io/posts/faketec-ultraslim/ ; CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ ; original image unchanged; captions translated.",
+    "modification": "Original image bytes unchanged; captions translated where noted."
+  },
+  {
+    "model": "PN1807433",
+    "file": "assets/PN1807433/faketecnfy-fasevfin.jpg",
+    "credit": "Fernan / FernanFPV",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://fernanfpv.github.io/posts/faketec-ultraslim/",
+    "attribution": "Fernan / FernanFPV, Nodo UltraSlim para Meshtastic (bonito y todo), https://fernanfpv.github.io/posts/faketec-ultraslim/ ; CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ ; original image unchanged; captions translated.",
+    "modification": "Original image bytes unchanged; captions translated where noted."
+  },
+  {
+    "model": "FG05",
+    "file": "assets/FG05/2025-10_Meshtastic_Node_temporaerhaus_P1090100-1024x683.jpg",
+    "credit": "-stk",
+    "license": "CC BY-SA 4.0; credit -stk, link source and https://creativecommons.org/licenses/by-sa/4.0/; no edits.",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://stefan.bloggt.es/2025/11/building-a-cheap-solar-meshtastic-node/",
+    "attribution": "接線盒內部與雙18650電池座／Inside the junction box and dual-18650 holder · © -stk · CC BY-SA 4.0 · 未修改/unchanged",
+    "modification": "Original image bytes unchanged; captions translated where noted."
+  },
+  {
+    "model": "FG05",
+    "file": "assets/FG05/2025-10_Meshtastic_Node_temporaerhaus_P1090106-683x1024.jpg",
+    "credit": "-stk",
+    "license": "CC BY-SA 4.0; credit -stk, link source and https://creativecommons.org/licenses/by-sa/4.0/; no edits.",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://stefan.bloggt.es/2025/11/building-a-cheap-solar-meshtastic-node/",
+    "attribution": "屋頂上的太陽能節點／Rooftop solar node · © -stk · CC BY-SA 4.0 · 未修改/unchanged",
+    "modification": "Original image bytes unchanged; captions translated where noted."
+  },
+  {
+    "model": "FG05",
+    "file": "assets/FG05/FakeTec_board_back_P1089951-1024x667.jpg",
+    "credit": "-stk",
+    "license": "CC BY-SA 4.0; credit -stk; https://creativecommons.org/licenses/by-sa/4.0/; unmodified source bytes",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://stefan.bloggt.es/2025/11/building-a-cheap-solar-meshtastic-node/",
+    "attribution": "FakeTec V3 PCB背面／FakeTec V3 PCB reverse · © -stk · CC BY-SA 4.0 · 未修改/unchanged",
+    "modification": "Original image bytes unchanged; captions translated where noted."
+  },
+  {
+    "model": "FG05",
+    "file": "assets/FG05/2025-10_Meshtastic_Node_temporaerhaus_P1090099-1024x683.jpg",
+    "credit": "-stk",
+    "license": "CC BY-SA 4.0; credit -stk; https://creativecommons.org/licenses/by-sa/4.0/; unmodified source bytes",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://stefan.bloggt.es/2025/11/building-a-cheap-solar-meshtastic-node/",
+    "attribution": "天線與接線盒外觀／Antenna and junction box · © -stk · CC BY-SA 4.0 · 未修改/unchanged",
+    "modification": "Original image bytes unchanged; captions translated where noted."
+  },
+  {
+    "model": "FG05",
+    "file": "assets/FG05/TP4056_board_P1089956-1024x665.jpg",
+    "credit": "-stk",
+    "license": "CC BY-SA 4.0; credit -stk; https://creativecommons.org/licenses/by-sa/4.0/; unmodified source bytes",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://stefan.bloggt.es/2025/11/building-a-cheap-solar-meshtastic-node/",
+    "attribution": "作者使用的充電保護板／Author’s charger/protection board · © -stk · CC BY-SA 4.0 · 未修改/unchanged",
+    "modification": "Original image bytes unchanged; captions translated where noted."
+  }
+]
