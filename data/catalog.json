@@ -583,7 +583,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC0 1.0 Universal / Public Domain",
+      "model_license": "CC0 1.0 Universal / Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
     {
       "id": "C01",
@@ -1450,7 +1453,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 9 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 9 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "C02",
@@ -3694,7 +3700,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 23 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 23 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "C04",
@@ -4743,7 +4752,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 15 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 15 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "C05",
@@ -5477,7 +5489,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 5 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 5 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY 4.0",
+      "model_license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "id": "C06",
@@ -6399,7 +6414,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 9 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 9 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "C07",
@@ -9512,7 +9530,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "M02",
@@ -10301,7 +10322,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 8 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 8 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "M03",
@@ -10986,7 +11010,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-SA 4.0",
+      "model_license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
       "id": "M04",
@@ -12108,7 +12135,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY 4.0",
+      "model_license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "id": "M05",
@@ -12793,7 +12823,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_revision_v14": "原頁有平台模型預覽，舊版未收入；明確標為render，不算實拍。"
+      "image_revision_v14": "原頁有平台模型預覽，舊版未收入；明確標為render，不算實拍。",
+      "license": "CC BY-NC 4.0",
+      "model_license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
     },
     {
       "id": "M06",
@@ -13827,7 +13860,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 15 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 15 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "M07",
@@ -14745,7 +14781,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-NC 4.0",
+      "model_license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
     },
     {
       "id": "M08",
@@ -16466,7 +16505,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_revision_v14": "原頁有平台模型預覽，舊版未收入；明確標為render，不算實拍。"
+      "image_revision_v14": "原頁有平台模型預覽，舊版未收入；明確標為render，不算實拍。",
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "T02",
@@ -17337,7 +17379,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_revision_v14": "原頁有平台模型預覽，舊版未收入；明確標為render，不算實拍。"
+      "image_revision_v14": "原頁有平台模型預覽，舊版未收入；明確標為render，不算實拍。",
+      "license": "CC BY-SA 4.0",
+      "model_license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
       "id": "T03",
@@ -19747,7 +19792,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-NC 4.0",
+      "model_license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
     },
     {
       "id": "T06",
@@ -21174,7 +21222,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 28 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 28 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "T07",
@@ -22274,7 +22325,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 18 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 18 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "T08",
@@ -23063,7 +23117,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 4 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 4 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "T09",
@@ -24058,7 +24115,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 12 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 12 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "T10",
@@ -25683,7 +25743,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 42 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 42 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "T11",
@@ -27246,7 +27309,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 6 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 6 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "X01",
@@ -29211,7 +29277,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 53 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 53 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "X02",
@@ -30471,7 +30540,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 21 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 21 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "X03",
@@ -38564,7 +38636,10 @@
         "scope": "Structural/regression checks only in v8; historical source and image evidence retained."
       },
       "hardware_families": [],
-      "image_missing_reason": "已收錄 12 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 12 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-SA 4.0",
+      "model_license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
       "id": "X12",
@@ -39563,7 +39638,10 @@
         "scope": "Structural/regression checks only in v8; historical source and image evidence retained."
       },
       "hardware_families": [],
-      "image_missing_reason": "已收錄 9 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 9 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-NC 4.0",
+      "model_license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
     },
     {
       "id": "X13",
@@ -39585,7 +39663,10 @@
         "SMA與匹配天線",
         "直角SMA母座10／15cm pigtail",
         "SPDT迷你切換開關8.2×5.1mm",
-        "板上藍色充電與紅色工作LED"
+        "板上藍色充電與紅色工作LED",
+        "電池電壓量測電阻一對（10 kΩ–1 MΩ）",
+        "22–24 AWG 導線、耐熱膠帶",
+        "電源濾波陶瓷電容（選配）"
       ],
       "notes": "不需自製主板的模組疊焊設計。作者列板上狀態LED及SMA；約1W／2W是射頻而非面板瓦數。太陽能僅為核心延伸，未提供完整太陽能裝配方案；RF能力及合法設定須另核。",
       "other_links": [],
@@ -44171,7 +44252,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_missing_reason": "已收錄 5 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 5 個不同來源畫面，實拍 3 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "license": "CC BY-SA 4.0",
+      "model_license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
       "id": "N03",
@@ -46220,7 +46304,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "PN1366856",
@@ -47188,7 +47275,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY 4.0",
+      "model_license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "id": "PN1411955",
@@ -48177,7 +48267,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-NC 4.0",
+      "model_license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
     },
     {
       "id": "PN1419314",
@@ -49092,7 +49185,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "PN1437355",
@@ -50025,7 +50121,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "PN1442889",
@@ -51016,7 +51115,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY 4.0",
+      "model_license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "id": "PN1450973",
@@ -52981,7 +53083,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "PN1500114",
@@ -54364,7 +54469,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "PN1620834",
@@ -55260,7 +55368,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-SA 4.0",
+      "model_license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
       "id": "PN1629939",
@@ -56034,7 +56145,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-SA 4.0",
+      "model_license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
       "id": "PN1679369",
@@ -56822,7 +56936,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC0 1.0",
+      "model_license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
     {
       "id": "PN1697600",
@@ -57579,7 +57696,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-NC 4.0",
+      "model_license": "CC BY-NC 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
     },
     {
       "id": "PN1738646",
@@ -60067,7 +60187,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY 4.0",
+      "model_license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "id": "PN1830295",
@@ -60795,7 +60918,10 @@
       "hardware_families": [
         "faketec"
       ],
-      "image_revision_v14": "原頁有平台模型預覽，舊版未收入；明確標為render，不算實拍。"
+      "image_revision_v14": "原頁有平台模型預覽，舊版未收入；明確標為render，不算實拍。",
+      "license": "CC BY 4.0",
+      "model_license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "id": "MW1348569",
@@ -68835,7 +68961,7 @@
         "https://3dgo.app/models/thingiverse/7342356"
       ],
       "notes": "三角柱導軌式設計。2026-05-28更新為較高USB-C接頭增加槽位。 作者頁標示Work in Progress；列印與適配仍須核對。",
-      "model_license": "CC BY-NC-SA（轉載標示；版本未列）",
+      "model_license": "CC BY-NC-SA 4.0",
       "image_missing_reason": "已收錄 9 個不同來源畫面，實拍 5 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
       "download_status": "source_lists_download_current_files_not_verified",
       "component_specs": [
@@ -69098,7 +69224,9 @@
       "work_in_progress": true,
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "TV7111315",
@@ -74365,7 +74493,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-SA 4.0",
+      "model_license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
       "id": "FG03",
@@ -75621,7 +75752,10 @@
       },
       "hardware_families": [
         "faketec"
-      ]
+      ],
+      "license": "CC BY-NC-SA 4.0",
+      "model_license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
       "id": "TV7360906",
@@ -97718,18 +97852,24 @@
       "board_tags": [
         "XIAO nRF52840 + Wio-SX1262"
       ],
-      "battery": "2×18650，標稱3800mAh未獨立驗證",
-      "battery_kind": "unknown",
-      "battery_count": null,
-      "battery_counts": [],
+      "battery": "2×18650；標稱 3800mAh 為作者資料，未獨立驗證",
+      "battery_kind": "18650",
+      "battery_count": 2,
+      "battery_counts": [
+        2
+      ],
       "battery_dimensions": "以電池型號為參考；實際電池與可用內腔尺寸須核對。",
       "battery_options": [],
       "form": "XIAO LoRa",
       "parts": [
-        "XIAO nRF52840 + Wio-SX1262",
-        "2×18650，標稱3800mAh未獨立驗證"
+        "XIAO nRF52840 + Wio SX1262",
+        "2×18650",
+        "CN3791 MPPT",
+        "3×110×60 mm 太陽能板",
+        "1N5817",
+        "868 MHz 天線"
       ],
-      "notes": "待核線索：搜尋索引保存的鏡像BOM列nRF套裝、CN3791 MPPT、3片110×60mm面板與1N5817。現開鏡像僅標題，正文證據尚屬索引。  模型檔尚未下載；尺寸、可列印性與實物裝配未驗證。 原站授權未核；不可當已驗證開源。 原MakerWorld頁曾明示Please contact the site owner for access，本次未重試或繞過。既有公開3DFinder索引頁現可讀完整正文及2圖；其中1圖為第三方太陽能示意，不是實拍。不可稱完整原站相簿已核。 既有公開鏡像現可讀正文，列XIAO nRF52840+Wio SX1262、2×18650、CN3791、3片110×60mm太陽能板及1N5817；標稱355g、3800mAh均作者陳述未獨立核驗。",
+      "notes": "原作者列出兩顆 18650、CN3791 與三片太陽能板；容量及實際裝配尚未獨立驗證。",
       "features": {
         "oled": null,
         "encoder": null,
@@ -97895,13 +98035,13 @@
         {
           "key": "battery",
           "label": "電池",
-          "value": "2×18650，標稱3800mAh未獨立驗證",
-          "state": "secondary_source",
-          "source_url": "https://3dfinder.io/model/makerworld/2827405-meshcore-meshtastic-baum-solar-repeater"
+          "value": "2×18650；標稱 3800mAh 為作者資料，未獨立驗證",
+          "state": "confirmed",
+          "source_url": "https://makerworld.com/en/models/2827405"
         }
       ],
       "specs": {
-        "授權": "搜尋索引列MakerWorld Exclusive License；非已驗證開源",
+        "授權": "MakerWorld Exclusive License",
         "下載": "原始MakerWorld頁受存取限制；入口保留，檔案未下載 / Original MakerWorld access restricted; files not downloaded"
       },
       "solar": null,
@@ -97971,8 +98111,8 @@
       "other_links": [],
       "description_status": "search_only_candidate",
       "checked": "2026-10-29",
-      "license": "Indexed exclusive license; not verified open source",
-      "license_url": null,
+      "license": "MakerWorld Exclusive License",
+      "license_url": "https://makerworld.com/en/models/2827405",
       "open_license_verified": false,
       "compatibility_status": "pending",
       "download_verification": {
@@ -98077,7 +98217,8 @@
         "model_license": "索引標MakerWorld Exclusive License；原站授權未核，非已驗證開源",
         "notes_update": "既有公開鏡像現可讀正文，列XIAO nRF52840+Wio SX1262、2×18650、CN3791、3片110×60mm太陽能板及1N5817；標稱355g、3800mAh均作者陳述未獨立核驗。"
       },
-      "image_missing_reason": "已收錄 2 個不同來源畫面，實拍 1 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 2 個不同來源畫面，實拍 1 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "model_license": "MakerWorld Exclusive License"
     },
     {
       "id": "MW2900270",
@@ -98088,7 +98229,7 @@
         "MakerWorld"
       ],
       "category": "XIAO",
-      "author": "Unknown",
+      "author": "Epickitrolaz",
       "family": "MW2900270",
       "model_kind": "enclosure",
       "hardware_families": [
@@ -98098,18 +98239,20 @@
       "board_tags": [
         "XIAO nRF52840 + Wio-SX1262"
       ],
-      "battery": "未核",
-      "battery_kind": "unknown",
-      "battery_count": null,
-      "battery_counts": [],
+      "battery": "2×2000mAh LiPo，單顆 10×34×50 mm；作者稱並聯",
+      "battery_kind": "lipo",
+      "battery_count": 2,
+      "battery_counts": [
+        2
+      ],
       "battery_dimensions": "以電池型號為參考；實際電池與可用內腔尺寸須核對。",
       "battery_options": [],
       "form": "XIAO LoRa",
       "parts": [
-        "XIAO nRF52840 + Wio-SX1262",
-        "未核"
+        "XIAO nRF52840 + Wio SX1262",
+        "2×2000mAh LiPo (10×34×50 mm)"
       ],
-      "notes": "待核線索：僅鏡像標題；未取得作者、尺寸或圖片，不能算精確完成。  模型檔尚未下載；尺寸、可列印性與實物裝配未驗證。 原站授權未核；不可當已驗證開源。 原站尚未讀取成功，不重試既有受限途徑。既有公開索引頁現可讀作者、正文及1張實拍，不代表完整原站相簿只有1張。 作者為Epickitrolaz；索引正文列2顆2000mAh LiPo並聯，單顆10×34×50mm，PLA。30天續航為作者宣稱未獨立驗證。",
+      "notes": "作者列兩顆 LiPo 並聯；尺寸及容量為作者提供，實物裝配尚未驗證。與相似作品的關係尚未確認。",
       "features": {
         "oled": null,
         "encoder": null,
@@ -98275,13 +98418,13 @@
         {
           "key": "battery",
           "label": "電池",
-          "value": "未核",
-          "state": "secondary_source",
-          "source_url": "https://3dfinder.io/model/makerworld/2900270-seeed-xiao-nrf52840-wio-sx1262-meshcore-case?lang=en"
+          "value": "2×2000mAh LiPo，單顆 10×34×50 mm；作者稱並聯",
+          "state": "confirmed",
+          "source_url": "https://makerworld.com/en/models/2900270"
         }
       ],
       "specs": {
-        "授權": "未核",
+        "授權": "CC BY 4.0",
         "下載": "原始MakerWorld頁受存取限制；入口保留，檔案未下載 / Original MakerWorld access restricted; files not downloaded"
       },
       "solar": null,
@@ -98324,8 +98467,8 @@
       "other_links": [],
       "description_status": "search_only_candidate",
       "checked": "2026-10-29",
-      "license": "Unverified",
-      "license_url": null,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "open_license_verified": false,
       "compatibility_status": "pending",
       "download_verification": {
@@ -98404,7 +98547,8 @@
         "model_license": "索引標BY；原站條款版本未核，不提升為已驗證開源",
         "notes_update": "作者為Epickitrolaz；索引正文列2顆2000mAh LiPo並聯，單顆10×34×50mm，PLA。30天續航為作者宣稱未獨立驗證。"
       },
-      "image_missing_reason": "已收錄 1 個不同來源畫面，實拍 1 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 1 個不同來源畫面，實拍 1 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "model_license": "CC BY 4.0"
     },
     {
       "id": "PN1675429",
@@ -115046,7 +115190,7 @@
         }
       ],
       "specs": {
-        "授權": "CC BY-SA（鏡像標示；原頁待核）",
+        "授權": "CC BY-SA 4.0",
         "檔案": "原頁入口；檔案二進位未取得",
         "來源列檔數": "未知，不當零"
       },
@@ -115133,8 +115277,8 @@
       "other_links": [],
       "description_status": "secondary-mirror",
       "checked": "2026-10-29",
-      "license": "Original license unverified; see source and research record.",
-      "license_url": "https://3dgo.app/models/thingiverse/6870607",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "open_license_verified": false,
       "compatibility_status": "source_nominal_not_fit_tested",
       "download_verification": {
@@ -115179,7 +115323,8 @@
         "physical_fit_verified": false,
         "paid": false
       },
-      "image_missing_reason": "已收錄 3 個不同來源畫面，實拍 0 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。"
+      "image_missing_reason": "已收錄 3 個不同來源畫面，實拍 0 張；其餘按渲染／AI／待分類標記，不用重複圖湊數。",
+      "model_license": "CC BY-SA 4.0"
     },
     {
       "id": "REF-FARO-v1",
@@ -117413,9 +117558,9 @@
         "xiao"
       ],
       "board": "XIAO nRF52840＋Wio-SX1262（來源名義配置；未實物試裝）",
-      "battery": "單顆 18650",
+      "battery": "18650；顆數未明確列出",
       "battery_kind": "18650",
-      "battery_count": 1,
+      "battery_count": null,
       "form": "極簡外殼／電池架",
       "model_kind": "enclosure",
       "family": "TV7284147",
@@ -122362,7 +122507,8 @@
         "photo_captions": [
           "原作者 CAD／渲染圖，非實拍（原相簿 1）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC0 1.0 Universal / Public Domain"
       },
       "en": {
         "board": "FakeTec V3 CAD reference",
@@ -122399,7 +122545,8 @@
         "photo_captions": [
           "Source-page model preview, not a photograph",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC0 1.0 Universal / Public Domain"
       }
     },
     "C01": {
@@ -122516,7 +122663,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "FakeTec Rev.B",
@@ -122621,7 +122769,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "C02": {
@@ -122982,7 +123131,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "FakeTec V5 / V5 Rev.B, recommended by the author",
@@ -123167,7 +123317,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "C04": {
@@ -123296,7 +123447,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "FakeTec V5",
@@ -123413,7 +123565,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "C05": {
@@ -123488,7 +123641,8 @@
           "原作者相簿 3",
           "平台原頁模型預覽，非實拍",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY 4.0"
       },
       "en": {
         "board": "Heltec LoRa32 V3 / Heltec T114; FakeTec alternative not confirmed",
@@ -123558,7 +123712,8 @@
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY 4.0"
       }
     },
     "C06": {
@@ -123687,7 +123842,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "FakeTec or Heltec T114; T114 display must be removed",
@@ -123806,7 +123962,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "C07": {
@@ -124279,7 +124436,8 @@
           "原作者實拍（原相簿 11）",
           "原作者實拍（原相簿 12）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "Early FakeTec; PCB revision unspecified",
@@ -124363,7 +124521,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "M02": {
@@ -124450,7 +124609,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "FakeTec; PCB revision unspecified",
@@ -124531,7 +124691,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "M03": {
@@ -124565,7 +124726,8 @@
           "原作者實拍（原相簿 4）",
           "原作者實拍（原相簿 5）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       },
       "en": {
         "board": "FakeTec; exact revision unconfirmed",
@@ -124597,7 +124759,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       }
     },
     "M04": {
@@ -124708,7 +124871,8 @@
           "原作者實拍（原相簿 11）",
           "原作者實拍（原相簿 12）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY 4.0"
       },
       "en": {
         "board": "FakeTec V4, author-tested; nRF52 Pro Micro",
@@ -124812,7 +124976,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY 4.0"
       }
     },
     "M05": {
@@ -124883,7 +125048,8 @@
         "photo_captions": [
           "原作者 CAD／渲染圖，非實拍（原相簿 1）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY-NC 4.0"
       },
       "en": {
         "board": "FakeTec V4",
@@ -124949,7 +125115,8 @@
         "photo_captions": [
           "Source-page model preview, not a photograph",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY-NC 4.0"
       }
     },
     "M06": {
@@ -125062,7 +125229,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "FakeTec V5 / V5 Rev.B",
@@ -125167,7 +125335,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "M07": {
@@ -125235,7 +125404,8 @@
           "原作者實拍（原相簿 8）",
           "原作者實拍（原相簿 9）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY-NC 4.0"
       },
       "en": {
         "board": "FakeTec; exact revision unconfirmed",
@@ -125298,7 +125468,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY-NC 4.0"
       }
     },
     "M08": {
@@ -125563,7 +125734,8 @@
           "原作者實拍（原相簿 1）",
           "原作者實拍（原相簿 2）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "FakeTec V2, tested; V3 expected but untested",
@@ -125679,7 +125851,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "T02": {
@@ -125796,7 +125969,8 @@
           "原作者實拍（原相簿 1）",
           "原作者實拍（原相簿 2）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       },
       "en": {
         "board": "FakeTec V4, tested; Heltec LoRa32 V3 enclosure untested",
@@ -125904,7 +126078,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       }
     },
     "T03": {
@@ -126448,7 +126623,8 @@
           "原作者實拍（原相簿 2）",
           "原作者實拍（原相簿 3）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY-NC 4.0"
       },
       "en": {
         "board": "FakeTec V5",
@@ -126536,7 +126712,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY-NC 4.0"
       }
     },
     "T06": {
@@ -126710,7 +126887,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "Early FakeTec; PCB revision unspecified",
@@ -126873,7 +127051,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "T07": {
@@ -126981,7 +127160,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "Early FakeTec; PCB revision unspecified",
@@ -127083,7 +127263,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "T08": {
@@ -127194,7 +127375,8 @@
           "原作者相簿 2",
           "原作者相簿 3",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "FakeTec / nRF52840; PCB revision unspecified",
@@ -127296,7 +127478,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "T09": {
@@ -127425,7 +127608,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "FakeTec nRF52; Heltec V3 / T114 fit claimed, not individually verified",
@@ -127549,7 +127733,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "T10": {
@@ -127694,7 +127879,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "FakeTec; modified V4 PCB also provided",
@@ -127835,7 +128021,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "T11": {
@@ -128120,7 +128307,8 @@
           "平台原頁模型預覽，非實拍",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "FakeTec; PCB and core-board revisions unspecified",
@@ -128181,7 +128369,8 @@
           "Source-page model preview, not a photograph",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "X01": {
@@ -128395,7 +128584,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "FakeTec V5 / V5 Rev.B",
@@ -128601,7 +128791,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "X02": {
@@ -128748,7 +128939,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "board": "FakeTec V4 or V5",
@@ -128889,7 +129081,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "X03": {
@@ -130445,7 +130638,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       },
       "en": {
         "board": "Heltec WiFi LoRa 32 V3",
@@ -130606,7 +130800,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       }
     },
     "X12": {
@@ -130781,7 +130976,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC 4.0"
       },
       "en": {
         "board": "Heltec WiFi LoRa 32 V3",
@@ -130949,7 +131145,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC 4.0"
       }
     },
     "X13": {
@@ -130969,7 +131166,10 @@
           "SMA與匹配天線",
           "直角SMA母座10／15cm pigtail",
           "SPDT迷你切換開關8.2×5.1mm",
-          "板上藍色充電與紅色工作LED"
+          "板上藍色充電與紅色工作LED",
+          "電池電壓量測電阻一對（10 kΩ–1 MΩ）",
+          "22–24 AWG 導線、耐熱膠帶",
+          "電源濾波陶瓷電容（選配）"
         ],
         "battery_compact": "LiPo ×1 1000mAh\n或18650 ×1/×2版",
         "component_specs": [
@@ -131131,7 +131331,10 @@
           "Matching SMA antenna",
           "Right-angle SMA-female 10 / 15 cm pigtail",
           "8.2×5.1 mm SPDT toggle switch",
-          "22–24 AWG power wire and 30 AWG peripheral wire"
+          "22–24 AWG power wire and 30 AWG peripheral wire",
+          "Pair of battery-sense resistors (10 kΩ–1 MΩ)",
+          "22–24 AWG wire and heat-resistant tape",
+          "Ceramic supply-filter capacitor (optional)"
         ],
         "specs": {
           "Reset button": "Not provided",
@@ -131895,7 +132098,8 @@
           "原作者相簿 3",
           "平台原頁模型預覽，非實拍",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       },
       "en": {
         "title": "FakeTec V5 keychain / 503450 — internal 868 MHz helical antenna",
@@ -131945,7 +132149,8 @@
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       }
     },
     "N03": {
@@ -132210,7 +132415,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "title": "Meshtastic Faketec Vintage \"PAGER\"  WIP CLOSED!!!!",
@@ -132357,7 +132563,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "PN1366856": {
@@ -132507,7 +132714,8 @@
           "原作者實拍（原相簿3）",
           "原作者實拍（原相簿4）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY 4.0"
       },
       "en": {
         "title": "GurkCAP: Rugged Solar Case for FakeTec Meshtastic Devices",
@@ -132647,7 +132855,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY 4.0"
       }
     },
     "PN1411955": {
@@ -132733,7 +132942,8 @@
           "原作者render，非實拍（原相簿7）",
           "原作者頁元件示意，非成品實拍（原相簿8）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY-NC 4.0"
       },
       "en": {
         "title": "Faketec V4 Case",
@@ -132820,7 +133030,8 @@
           "Source-page model preview, not a photograph",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY-NC 4.0"
       }
     },
     "PN1419314": {
@@ -132874,7 +133085,8 @@
           "原作者實拍（原相簿7）",
           "原作者實拍（原相簿8）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "title": "FakeTec case with OLED on top.",
@@ -132926,7 +133138,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "PN1437355": {
@@ -133017,7 +133230,8 @@
           "原作者實拍（原相簿4）",
           "原作者實拍（原相簿5）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "title": "Faketec Slim Case w/OLED",
@@ -133109,7 +133323,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "PN1442889": {
@@ -133224,7 +133439,8 @@
           "原作者實拍（原相簿4）",
           "原作者實拍（原相簿5）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY 4.0"
       },
       "en": {
         "title": "Faketec V4 case Meshtastic MeshPhone with GPS and Oled",
@@ -133337,7 +133553,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY 4.0"
       }
     },
     "PN1450973": {
@@ -133584,7 +133801,8 @@
           "原作者實拍（原相簿10）；作者明示照片為v26，下載檔為v30",
           "原作者實拍（原相簿11）；作者明示照片為v26，下載檔為v30",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "title": "fakeTec 18650 case",
@@ -133706,7 +133924,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "PN1500114": {
@@ -133801,7 +134020,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "title": "Meshtastic Xmini-FakeTec powered \"MIGHTY-tiny\"",
@@ -133896,7 +134116,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "PN1620834": {
@@ -133949,7 +134170,8 @@
           "原作者render，非實拍（原相簿6）",
           "平台原頁模型預覽，非實拍",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       },
       "en": {
         "title": "Faketec-18650 case",
@@ -134002,7 +134224,8 @@
           "Source-page model preview, not a photograph",
           "Source-page model preview, not a photograph",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       }
     },
     "PN1629939": {
@@ -134052,7 +134275,8 @@
           "原作者實拍（原相簿3）",
           "原作者實拍（原相簿4）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       },
       "en": {
         "title": "Faketec 18650 case",
@@ -134100,7 +134324,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       }
     },
     "PN1679369": {
@@ -134150,7 +134375,8 @@
           "原作者render，非實拍（原相簿3）",
           "原作者render，非實拍（原相簿4）",
           "原作者render，非實拍（原相簿5）"
-        ]
+        ],
+        "license": "CC0 1.0"
       },
       "en": {
         "title": "Faketec v5 with OLED 0.96 board",
@@ -134198,7 +134424,8 @@
           "Source-page model preview, not a photograph",
           "Source-page model preview, not a photograph",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC0 1.0"
       }
     },
     "PN1697600": {
@@ -134247,7 +134474,8 @@
           "原作者render，非實拍（原相簿2）",
           "原作者render，非實拍（原相簿3）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY-NC 4.0"
       },
       "en": {
         "title": "Faketec nRF MeshCore \\ Meshtastic",
@@ -134294,7 +134522,8 @@
           "Source-page model preview, not a photograph",
           "Source-page model preview, not a photograph",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY-NC 4.0"
       }
     },
     "PN1738646": {
@@ -134628,7 +134857,8 @@
           "原作者實拍（原相簿3）",
           "原作者實拍（原相簿4）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY 4.0"
       },
       "en": {
         "title": "Faketec V4 case Meshtastic Digimon Digivice",
@@ -134716,7 +134946,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY 4.0"
       }
     },
     "PN1830295": {
@@ -134787,7 +135018,8 @@
         "photo_captions": [
           "原作者實拍（原相簿1）",
           "平台原頁模型預覽，非實拍"
-        ]
+        ],
+        "license": "CC BY 4.0"
       },
       "en": {
         "title": "Faketec Mini-X case",
@@ -134856,7 +135088,8 @@
         "photo_captions": [
           "Original creator gallery image; see source",
           "Source-page model preview, not a photograph"
-        ]
+        ],
+        "license": "CC BY 4.0"
       }
     },
     "MW1348569": {
@@ -136050,7 +136283,7 @@
           "五件列印件：主體、上下蓋、兩按鈕",
           "6×M3螺絲，10–20 mm"
         ],
-        "license": "CC BY-NC-SA（版本未列；轉載標示）",
+        "license": "CC BY-NC-SA 4.0",
         "component_specs": [
           {
             "key": "board",
@@ -136098,7 +136331,7 @@
           "Five printed parts: body, top, bottom and two buttons",
           "6×M3 screws, 10–20mm long"
         ],
-        "license": "CC BY-NC-SA (version unspecified; mirror listing)",
+        "license": "CC BY-NC-SA 4.0",
         "component_specs": [
           {
             "key": "board",
@@ -137338,7 +137571,8 @@
           "",
           "",
           ""
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       },
       "en": {
         "title": "FakeTec TakNode FreeCAD Enclosure",
@@ -137419,7 +137653,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       }
     },
     "FG03": {
@@ -137604,7 +137839,8 @@
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核",
           "作者頁相簿圖；實拍／渲染類型待核"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       },
       "en": {
         "title": "Karman’s Tube Solar — 32.5mm PVC Tube Mount",
@@ -137665,7 +137901,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-NC-SA 4.0"
       }
     },
     "TV7360906": {
@@ -143612,14 +143849,18 @@
       "zh": {
         "title": "待核線索 — MeshCore / Meshtastic Baum Solar Repeater",
         "board": "XIAO nRF52840 + Wio-SX1262",
-        "battery": "2×18650，標稱3800mAh未獨立驗證",
+        "battery": "2×18650；標稱 3800mAh 為作者資料，未獨立驗證",
         "battery_dimensions": "以電池型號為參考；實際電池與可用內腔尺寸須核對。",
-        "battery_compact": "2×18650，標稱3800mAh未獨立驗證",
+        "battery_compact": "2×18650；標稱 3800mAh 為作者資料，未獨立驗證",
         "form": "XIAO LoRa",
-        "notes": "原MakerWorld頁曾明示Please contact the site owner for access，本次未重試或繞過。既有公開3DFinder索引頁現可讀完整正文及2圖；其中1圖為第三方太陽能示意，不是實拍。不可稱完整原站相簿已核。 既有公開鏡像現可讀正文，列XIAO nRF52840+Wio SX1262、2×18650、CN3791、3片110×60mm太陽能板及1N5817；標稱355g、3800mAh均作者陳述未獨立核驗。 模型檔未買未下載，尺寸與實物適配未驗證。",
+        "notes": "原作者列出兩顆 18650、CN3791 與三片太陽能板；容量及實際裝配尚未獨立驗證。",
         "parts": [
-          "XIAO nRF52840 + Wio-SX1262",
-          "2×18650，標稱3800mAh未獨立驗證"
+          "XIAO nRF52840 + Wio SX1262",
+          "2×18650",
+          "CN3791 MPPT",
+          "3×110×60 mm 太陽能板",
+          "1N5817",
+          "868 MHz 天線"
         ],
         "component_specs": [
           {
@@ -143632,32 +143873,37 @@
           {
             "key": "battery",
             "label": "電池",
-            "value": "2×18650，標稱3800mAh未獨立驗證",
-            "state": "secondary_source",
-            "source_url": "https://3dfinder.io/model/makerworld/2827405-meshcore-meshtastic-baum-solar-repeater"
+            "value": "2×18650；標稱 3800mAh 為作者資料，未獨立驗證",
+            "state": "confirmed",
+            "source_url": "https://makerworld.com/en/models/2827405"
           }
         ],
         "specs": {
-          "授權": "搜尋索引列MakerWorld Exclusive License；非已驗證開源",
+          "授權": "MakerWorld Exclusive License",
           "檔案": "原頁入口；模型檔尚未取得"
         },
         "photos": [],
         "photo_captions": [
           "公開索引頁所載原作者裝置照片",
           "太陽能並聯原理示意圖，非裝置實拍"
-        ]
+        ],
+        "license": "MakerWorld Exclusive License"
       },
       "en": {
         "title": "Unverified lead — MeshCore / Meshtastic Baum Solar Repeater",
         "board": "XIAO nRF52840 + Wio-SX1262",
-        "battery": "claimed 3800mAh unverified",
+        "battery": "2×18650; 3800 mAh is the author’s stated capacity, not independently verified",
         "battery_dimensions": "Cell designation is a reference, not a measured enclosure clearance.",
-        "battery_compact": "claimed 3800mAh unverified",
+        "battery_compact": "2×18650; 3800 mAh is the author’s stated capacity, not independently verified",
         "form": "XIAO LoRa",
-        "notes": "The existing public 3DFinder index is now readable with one device photograph and one parallel-panel diagram. The MakerWorld primary page remains restricted; its full gallery and license are not verified. Model files were not downloaded; physical fit is untested.",
+        "notes": "The author lists two 18650 cells, a CN3791 and three solar panels; capacity and physical fit have not been independently verified.",
         "parts": [
-          "XIAO nRF52840 + Wio-SX1262",
-          "claimed 3800mAh unverified"
+          "XIAO nRF52840 + Wio SX1262",
+          "2×18650",
+          "CN3791 MPPT",
+          "3×110×60 mm 太陽能板",
+          "1N5817",
+          "868 MHz 天線"
         ],
         "component_specs": [
           {
@@ -143670,34 +143916,35 @@
           {
             "key": "battery",
             "label": "Battery",
-            "value": "claimed 3800mAh unverified",
-            "state": "secondary_source",
-            "source_url": "https://3dfinder.io/model/makerworld/2827405-meshcore-meshtastic-baum-solar-repeater"
+            "value": "2×18650; 3800 mAh is the author’s stated capacity, not independently verified",
+            "state": "confirmed",
+            "source_url": "https://makerworld.com/en/models/2827405"
           }
         ],
         "specs": {
-          "License": "Indexed exclusive license; not verified open source",
+          "License": "MakerWorld Exclusive License",
           "Files": "Source entry; model bytes not obtained"
         },
         "photos": [],
         "photo_captions": [
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "MakerWorld Exclusive License"
       }
     },
     "MW2900270": {
       "zh": {
         "title": "待核線索 — Seeed Xiao nRF52840 + Wio sx1262 Meshcore case",
         "board": "XIAO nRF52840 + Wio-SX1262",
-        "battery": "未核",
+        "battery": "2×2000mAh LiPo，單顆 10×34×50 mm；作者稱並聯",
         "battery_dimensions": "以電池型號為參考；實際電池與可用內腔尺寸須核對。",
-        "battery_compact": "未核",
+        "battery_compact": "2×2000mAh LiPo，單顆 10×34×50 mm；作者稱並聯",
         "form": "XIAO LoRa",
-        "notes": "原站尚未讀取成功，不重試既有受限途徑。既有公開索引頁現可讀作者、正文及1張實拍，不代表完整原站相簿只有1張。 作者為Epickitrolaz；索引正文列2顆2000mAh LiPo並聯，單顆10×34×50mm，PLA。30天續航為作者宣稱未獨立驗證。 模型檔未買未下載，尺寸與實物適配未驗證。",
+        "notes": "作者列兩顆 LiPo 並聯；尺寸及容量為作者提供，實物裝配尚未驗證。與相似作品的關係尚未確認。",
         "parts": [
-          "XIAO nRF52840 + Wio-SX1262",
-          "未核"
+          "XIAO nRF52840 + Wio SX1262",
+          "2×2000mAh LiPo (10×34×50 mm)"
         ],
         "component_specs": [
           {
@@ -143710,31 +143957,32 @@
           {
             "key": "battery",
             "label": "電池",
-            "value": "未核",
-            "state": "secondary_source",
-            "source_url": "https://3dfinder.io/model/makerworld/2900270-seeed-xiao-nrf52840-wio-sx1262-meshcore-case?lang=en"
+            "value": "2×2000mAh LiPo，單顆 10×34×50 mm；作者稱並聯",
+            "state": "confirmed",
+            "source_url": "https://makerworld.com/en/models/2900270"
           }
         ],
         "specs": {
-          "授權": "未核",
+          "授權": "CC BY 4.0",
           "檔案": "原頁入口；模型檔尚未取得"
         },
         "photos": [],
         "photo_captions": [
           "公開索引頁所載原作者裝置照片"
-        ]
+        ],
+        "license": "CC BY 4.0"
       },
       "en": {
         "title": "Unverified lead — Seeed Xiao nRF52840 + Wio sx1262 Meshcore case",
         "board": "XIAO nRF52840 + Wio-SX1262",
-        "battery": "Unknown",
+        "battery": "2×2000 mAh LiPo, each 10×34×50 mm; author describes parallel connection",
         "battery_dimensions": "Cell designation is a reference, not a measured enclosure clearance.",
-        "battery_compact": "Unknown",
+        "battery_compact": "2×2000 mAh LiPo, each 10×34×50 mm; author describes parallel connection",
         "form": "XIAO LoRa",
-        "notes": "The existing public 3DFinder index now provides one device photograph and text credited to Epickitrolaz. Primary MakerWorld page/gallery and exact license remain unverified. Two parallel 2000mAh LiPo cells and 30-day runtime are author statements, not independently tested.",
+        "notes": "The author lists two LiPo cells in parallel; dimensions, capacity and fit are not independently verified. Relationship to a similar design is unconfirmed.",
         "parts": [
-          "XIAO nRF52840 + Wio-SX1262",
-          "Unknown"
+          "XIAO nRF52840 + Wio SX1262",
+          "2×2000mAh LiPo (10×34×50 mm)"
         ],
         "component_specs": [
           {
@@ -143747,19 +143995,20 @@
           {
             "key": "battery",
             "label": "Battery",
-            "value": "Unknown",
-            "state": "secondary_source",
-            "source_url": "https://3dfinder.io/model/makerworld/2900270-seeed-xiao-nrf52840-wio-sx1262-meshcore-case?lang=en"
+            "value": "2×2000 mAh LiPo, each 10×34×50 mm; author describes parallel connection",
+            "state": "confirmed",
+            "source_url": "https://makerworld.com/en/models/2900270"
           }
         ],
         "specs": {
-          "License": "Unverified",
+          "License": "CC BY 4.0",
           "Files": "Source entry; model bytes not obtained"
         },
         "photos": [],
         "photo_captions": [
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY 4.0"
       }
     },
     "PN1675429": {
@@ -147382,7 +147631,7 @@
           }
         ],
         "specs": {
-          "授權": "CC BY-SA（鏡像標示；原頁待核）",
+          "授權": "CC BY-SA 4.0",
           "檔案": "模型檔未取得",
           "原頁列檔數": "未知，不當零"
         },
@@ -147391,7 +147640,8 @@
           "來源展示圖",
           "來源展示圖",
           "來源展示圖"
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       },
       "en": {
         "title": "Seeed Studio ESP32S3 + SX1262 LoRa case — nRF conversion",
@@ -147422,7 +147672,7 @@
           }
         ],
         "specs": {
-          "License": "Original license unverified; see source and research record.",
+          "License": "CC BY-SA 4.0",
           "Files": "Model bytes not obtained",
           "Source-listed files": "Unknown; not zero"
         },
@@ -147431,7 +147681,8 @@
           "Original creator gallery image; see source",
           "Original creator gallery image; see source",
           "Original creator gallery image; see source"
-        ]
+        ],
+        "license": "CC BY-SA 4.0"
       }
     },
     "REF-FARO-v1": {
@@ -148027,12 +148278,12 @@
     "TV7284147": {
       "zh": {
         "board": "XIAO nRF52840＋Wio-SX1262（來源名義配置；未實物試裝）",
-        "battery": "單顆 18650",
+        "battery": "18650；顆數未明確列出",
         "form": "極簡外殼／電池架",
         "parts": [],
         "notes": "WIP：外露電池架、無電源開關，M4 嵌件／螺絲、泡棉膠、原配軟天線管及可選掛繩。作者距離經驗不是保證射程。",
         "title": "XIAO＋Wio 極簡 18650 外殼／電池架",
-        "battery_compact": "單顆 18650",
+        "battery_compact": "18650；顆數未明確列出",
         "photo_captions": [
           "原作者相簿圖；照片／渲染尚未逐張分類",
           "原作者相簿圖；照片／渲染尚未逐張分類",
@@ -148061,11 +148312,11 @@
       "en": {
         "title": "Meshcore / Meshtasic minimalistic Case for Xiao nRF52840 Wio-SX1262",
         "board": "XIAO nRF52840 + Wio-SX1262 (source-stated configuration; not physically fit-tested)",
-        "battery": "One 18650 cell",
+        "battery": "18650; cell count not explicitly stated",
         "form": "Minimal enclosure / battery holder",
         "parts": [],
         "notes": "Work in progress: exposed battery holder, no power switch, M4 inserts/screws, foam tape, stock flexible antenna tube and optional lanyard. The author’s distance experience is not a guaranteed range.",
-        "battery_compact": "One 18650 cell",
+        "battery_compact": "18650; cell count not explicitly stated",
         "photo_captions": [
           "Author gallery image; photograph/render classification not individually verified",
           "Author gallery image; photograph/render classification not individually verified",
